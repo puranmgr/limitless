@@ -2,7 +2,7 @@
 A web app that uses usplash's image api to build infinite gallery of images using react-infinite-scroll-component.
 
 ## Demo
-<iframe src="https://drive.google.com/file/d/1w3AOaSZHcGzZYb_SuufLk9WeVIU5iK2m/preview" width="640" height="480"></iframe>
+<img src="./demo/demo.gif" width="400">
 
 ### Installation guide
 
